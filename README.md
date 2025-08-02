@@ -24,8 +24,8 @@
   <!-- Backend -->
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" /></a>
-  <a href="https://swagger.io/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-api-documentation-with-swagger-to-design-develop-and-document-apis-logo-shadow-tal-revivo.png" height="40" alt="Swagger" /></a>
-  <a href="https://www.prisma.io/"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" height="40" alt="Prisma ORM" /></a>
+  <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" /></a>
+  <a href="https://www.prisma.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg" height="40" alt="Prisma ORM" /></a>
 
   <!-- Databases -->
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></a>
